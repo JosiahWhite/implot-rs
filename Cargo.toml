@@ -12,7 +12,7 @@ readme = "README.md"
 
 [dependencies]
 implot-sys = { path = "implot-sys" }
-imgui = { git = "https://github.com/JosiahWhite/imgui-rs.git", rev = "beab7ce8a6155f517b03f4fa69a463dbecb68af0", features = ["docking"] }
+imgui = { git = "https://github.com/JosiahWhite/imgui-rs.git", rev = "3fd1210456b94b6e8eb16ffa14ecca77faeb86e6", features = ["docking"] }
 parking_lot = "0.11"
 rustversion = "1.0.4"
 
